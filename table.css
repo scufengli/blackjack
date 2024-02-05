@@ -1,0 +1,8 @@
+.wager-input {
+  width: 200px;
+}
+
+#dealersCards ol,
+#playersCards ol {
+  flex-wrap: wrap;
+}
